@@ -7,7 +7,7 @@ const trainersData = [
   {
     id: 1,
     name: 'Ricky Pointing',
-    sport: 'Cricket',
+    sport: 'Cricket and Australia',
     bio: 'Ricky Ponting, one of the greatest batsmen in cricket history, debuted for Australia in 1995 and scored over 13,000 runs in both Test and ODI formats, with 71 international centuries. As captain, he led Australia to World Cup victories in 2003 and 2007 and became one of the most successful leaders in the sport. After retiring in 2012, Ponting transitioned to coaching, taking on roles with IPL teams like Mumbai Indians, Delhi Capitals, and currently Punjab Kings, where he continues to influence the game as a coach and mentor.',
     image: Ricky,
   },
